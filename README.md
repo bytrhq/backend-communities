@@ -1,3 +1,6 @@
+
+![backend-communities](https://github.com/user-attachments/assets/9b1af605-ccd1-4355-8468-edae0cfcb8e8)
+
 # Community and Networking
   This document provides an overview of valuable online communities, influential people, events, additional resources, and networking tips to help you connect with the backend development community and enhance your professional growth.
 
